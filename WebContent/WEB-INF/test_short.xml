@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE dblp SYSTEM "dblp.dtd">
+<dblp>
+<proceedings key="conf/3dph/2009" mdate="2010-09-06">
+<editor>Nadia Magnenat-Thalmann</editor>
+<title>
+Modelling the Physiological Human, 3D Physiological Human Workshop, 3DPH 2009, Zermatt, Switzerland, November 29 - December 2, 2009. Proceedings
+</title>
+<year>2009</year>
+<volume>5903</volume>
+<isbn>978-3-642-10468-8</isbn>
+<ee>http://dx.doi.org/10.1007/978-3-642-10470-1</ee>
+<booktitle>3DPH</booktitle>
+<series href="db/journals/lncs.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<url>db/conf/3dph/3dph2009.html</url>
+</proceedings>
+<proceedings key="conf/3dui/2016" mdate="2016-05-03">
+<editor>Bruce H. Thomas</editor>
+<editor>Robert Lindeman</editor>
+<editor>Maud Marchal</editor>
+<title>
+2016 IEEE Symposium on 3D User Interfaces, 3DUI 2016, Greenville, SC, USA, March 19-20, 2016
+</title>
+<booktitle>3DUI</booktitle>
+<publisher>IEEE Computer Society</publisher>
+<year>2016</year>
+<isbn>978-1-5090-0842-1</isbn>
+<ee>
+http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7454633
+</ee>
+<ee>
+https://www.computer.org/csdl/proceedings/3dui/2016/0842/00/index.html
+</ee>
+<url>db/conf/3dui/3dui2016.html</url>
+</proceedings>
+<proceedings key="conf/3dui/2009" mdate="2016-05-02">
+<title>
+IEEE Symposium on 3D User Interfaces, 3DUI 2009, Lafayette, LA, USA, 14-15 March, 2009
+</title>
+<publisher>IEEE Computer Society</publisher>
+<year>2009</year>
+<isbn>978-1-4244-3965-2</isbn>
+<ee>
+http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=4806855
+</ee>
+<ee>
+https://www.computer.org/csdl/proceedings/3dui/2009/3965/00/index.html
+</ee>
+<booktitle>3DUI</booktitle>
+<url>db/conf/3dui/3dui2009.html</url>
+</proceedings>
+<article key="journals/4or/ConfortiCZ10" mdate="2010-05-21">
+<author>Michele Conforti</author>
+<author>Gérard Cornuéjols</author>
+<author>Giacomo Zambelli</author>
+<title>
+Extended formulations in combinatorial optimization.
+</title>
+<pages>1-48</pages>
+<year>2010</year>
+<volume>8</volume>
+<journal>4OR</journal>
+<number>1</number>
+<ee>http://dx.doi.org/10.1007/s10288-010-0122-z</ee>
+<url>db/journals/4or/4or8.html#ConfortiCZ10</url>
+</article>
+<book key="books/sp/Lewis16" mdate="2015-10-27">
+<author>Rhyd Lewis</author>
+<title>
+A Guide to Graph Colouring - Algorithms and Applications
+</title>
+<publisher>Springer</publisher>
+<year>2016</year>
+<pages>1-253</pages>
+<isbn>978-3-319-25728-0</isbn>
+<isbn>978-3-319-25730-3</isbn>
+<ee>http://dx.doi.org/10.1007/978-3-319-25730-3</ee>
+</book>
+<article key="journals/aim/LiuBWGHSGD16" mdate="2016-07-26">
+<author>Juan Liu</author>
+<author>Eric Bier</author>
+<author>Aaron Wilson</author>
+<author>John Alexis Guerra Gómez</author>
+<author>Tomonori Honda</author>
+<author>Kumar Sricharan</author>
+<author>Leilani Gilpin</author>
+<author>Daniel Davies</author>
+<title>
+Graph Analysis for Detecting Fraud, Waste, and Abuse in Healthcare Data.
+</title>
+<pages>33-46</pages>
+<year>2016</year>
+<volume>37</volume>
+<journal>AI Magazine</journal>
+<number>2</number>
+<ee>
+http://www.aaai.org/ojs/index.php/aimagazine/article/view/2630
+</ee>
+<url>db/journals/aim/aim37.html#LiuBWGHSGD16</url>
+</article>
+<inproceedings key="conf/icacci/VasudevK14" mdate="2014-12-03">
+<author>Drisya Vasudev</author>
+<author>Anish Babu K. K</author>
+<title>
+Speaker identification using FBCC in Malayalam language.
+</title>
+<pages>1759-1763</pages>
+<year>2014</year>
+<booktitle>ICACCI</booktitle>
+<ee>http://dx.doi.org/10.1109/ICACCI.2014.6968656</ee>
+<crossref>conf/icacci/2014</crossref>
+<url>db/conf/icacci/icacci2014.html#VasudevK14</url>
+</inproceedings>
+<article key="journals/ijst/MaryKJ12" mdate="2016-02-25">
+<author>Leena Mary</author>
+<author>Anish Babu K. K</author>
+<author>Aju Joseph</author>
+<title>
+Analysis and detection of mimicked speech based on prosodic features.
+</title>
+<pages>407-417</pages>
+<year>2012</year>
+<volume>15</volume>
+<journal>I. J. Speech Technology</journal>
+<number>3</number>
+<ee>http://dx.doi.org/10.1007/s10772-012-9163-3</ee>
+<url>db/journals/ijst/ijst15.html#MaryKJ12</url>
+</article>
+
+</dblp>

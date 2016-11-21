@@ -1,0 +1,25 @@
+#container {
+    width: 900px;
+    margin: auto;
+}
+
+#bookInfo p {
+    padding: 15px;
+}
+
+#progress {
+    width: 900px;
+    height: 400px;
+}
+
+#mainContent {
+    width: 900px;
+}
+
+#prevButton {
+    float: left;
+}
+
+#nextButton {
+    float: right;
+}
